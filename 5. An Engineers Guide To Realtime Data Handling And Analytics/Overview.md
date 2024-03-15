@@ -56,5 +56,6 @@ Would you like this course delivered to your team? Reach out to us.
 * [Slides](./Slides/Slide%20Deck.pdf)
 * [Code](./Code/)
 * [Data](./Data/)
+* [Spreadsheet of Connections](https://mrpaulandrew-my.sharepoint.com/:x:/p/paul/EQ8Ou7bGcUVFgnAfDl59Fs8Bnmv_5Bp3Z114JUoUw4GyWQ?rtime=cZcOawRF3Eg)
 * [Azure Demo Video Guide](./Videos/Azure%20Architecture%20Guide.md)
 * [Fabric Demo Video Guide](./Videos/Fabric%20Architecture%20Guide.md)
