@@ -50,3 +50,11 @@ The secondary resources we’ll mention in this course to support primary conten
 Would you like this course delivered to your team? Reach out to us.
 
 [cloudformations.org/contact](https://www.cloudformations.org/contact)
+
+# Resources
+
+* [Slides](./Slides/Slide%20Deck.pdf)
+* [Code](./Code/)
+* [Data](./Data/)
+* [Azure Demo Video Guide](./Videos/Azure%20Architecture%20Guide.md)
+* [Fabric Demo Video Guide](./Videos/Fabric%20Architecture%20Guide.md)
