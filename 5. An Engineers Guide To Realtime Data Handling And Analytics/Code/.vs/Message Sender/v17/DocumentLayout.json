@@ -1,23 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\Training\\5. An Engineers Guide To Realtime Data Handling And Analytics\\Code\\",
+  "WorkspaceRootPath": "C:\\Users\\PaulAndrew\\Documents\\GitHub\\Training\\5. An Engineers Guide To Realtime Data Handling And Analytics\\Code\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

@@ -1,12 +1,6 @@
---Data Lake pass through
-SELECT
-    *
-INTO
-    [DATALAKE]
-FROM
-    [EH1]
-
---Products aggregation 30 second sliding
+/*
+For the streaming demo.
+*/
 SELECT
     eh.EventEnqueuedUtcTime,
     prd.Name AS ProductName,
@@ -25,6 +19,20 @@ GROUP BY
     prd.Name,
     SlidingWindow(second, 30)
 
+
+---------------------------------------------------------------------------------
+
+
+
+/*
+Other example queries. NOT REQUIRED.
+*/
+SELECT
+    *
+INTO
+    [DATALAKE]
+FROM
+    [EH1]
 
 SELECT
     AVG(CAST(eh.UnitPrice AS float)) AS UnitPrice

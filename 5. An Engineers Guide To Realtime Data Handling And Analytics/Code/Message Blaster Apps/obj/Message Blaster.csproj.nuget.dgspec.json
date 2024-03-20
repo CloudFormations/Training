@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PaulAndrew\\OneDrive - mrpaulandrew\\Talks\\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\\Message Blaster Apps\\Message Blaster Apps\\Message Blaster.csproj": {}
+    "C:\\Users\\PaulAndrew\\Documents\\GitHub\\Training\\5. An Engineers Guide To Realtime Data Handling And Analytics\\Code\\Message Blaster Apps\\Message Blaster.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PaulAndrew\\OneDrive - mrpaulandrew\\Talks\\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\\Message Blaster Apps\\Message Blaster Apps\\Message Blaster.csproj": {
+    "C:\\Users\\PaulAndrew\\Documents\\GitHub\\Training\\5. An Engineers Guide To Realtime Data Handling And Analytics\\Code\\Message Blaster Apps\\Message Blaster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PaulAndrew\\OneDrive - mrpaulandrew\\Talks\\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\\Message Blaster Apps\\Message Blaster Apps\\Message Blaster.csproj",
+        "projectUniqueName": "C:\\Users\\PaulAndrew\\Documents\\GitHub\\Training\\5. An Engineers Guide To Realtime Data Handling And Analytics\\Code\\Message Blaster Apps\\Message Blaster.csproj",
         "projectName": "Message Blaster Apps",
-        "projectPath": "C:\\Users\\PaulAndrew\\OneDrive - mrpaulandrew\\Talks\\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\\Message Blaster Apps\\Message Blaster Apps\\Message Blaster.csproj",
+        "projectPath": "C:\\Users\\PaulAndrew\\Documents\\GitHub\\Training\\5. An Engineers Guide To Realtime Data Handling And Analytics\\Code\\Message Blaster Apps\\Message Blaster.csproj",
         "packagesPath": "C:\\Users\\PaulAndrew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PaulAndrew\\OneDrive - mrpaulandrew\\Talks\\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\\Message Blaster Apps\\Message Blaster Apps\\obj\\",
+        "outputPath": "C:\\Users\\PaulAndrew\\Documents\\GitHub\\Training\\5. An Engineers Guide To Realtime Data Handling And Analytics\\Code\\Message Blaster Apps\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "net461": {
             "projectReferences": {
-              "C:\\Users\\PaulAndrew\\OneDrive - mrpaulandrew\\Talks\\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\\Message Blaster Apps\\ThroughPutController\\ThroughPutController.csproj": {
-                "projectPath": "C:\\Users\\PaulAndrew\\OneDrive - mrpaulandrew\\Talks\\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\\Message Blaster Apps\\ThroughPutController\\ThroughPutController.csproj"
+              "C:\\Users\\PaulAndrew\\Documents\\GitHub\\Training\\5. An Engineers Guide To Realtime Data Handling And Analytics\\Code\\ThroughPutController\\ThroughPutController.csproj": {
+                "projectPath": "C:\\Users\\PaulAndrew\\Documents\\GitHub\\Training\\5. An Engineers Guide To Realtime Data Handling And Analytics\\Code\\ThroughPutController\\ThroughPutController.csproj"
               }
             }
           }
@@ -85,11 +85,11 @@
         }
       }
     },
-    "C:\\Users\\PaulAndrew\\OneDrive - mrpaulandrew\\Talks\\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\\Message Blaster Apps\\ThroughPutController\\ThroughPutController.csproj": {
+    "C:\\Users\\PaulAndrew\\Documents\\GitHub\\Training\\5. An Engineers Guide To Realtime Data Handling And Analytics\\Code\\ThroughPutController\\ThroughPutController.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\PaulAndrew\\OneDrive - mrpaulandrew\\Talks\\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\\Message Blaster Apps\\ThroughPutController\\ThroughPutController.csproj",
+        "projectUniqueName": "C:\\Users\\PaulAndrew\\Documents\\GitHub\\Training\\5. An Engineers Guide To Realtime Data Handling And Analytics\\Code\\ThroughPutController\\ThroughPutController.csproj",
         "projectName": "ThroughPutController",
-        "projectPath": "C:\\Users\\PaulAndrew\\OneDrive - mrpaulandrew\\Talks\\Training - Building a Real-time Analytics Solution Using Microsoft Fabric\\Message Blaster Apps\\ThroughPutController\\ThroughPutController.csproj",
+        "projectPath": "C:\\Users\\PaulAndrew\\Documents\\GitHub\\Training\\5. An Engineers Guide To Realtime Data Handling And Analytics\\Code\\ThroughPutController\\ThroughPutController.csproj",
         "frameworks": {
           "net461": {
             "projectReferences": {}
