@@ -108,7 +108,7 @@ namespace MessageBlaster
 
                     connection.Open();
 
-                    String sql = "SELECT * FROM [dbo].[EHConnections]";
+                    String sql = "SELECT * FROM [dbo].[EHConnections] WITH (READCOMMITTED)";
 
                     using (SqlCommand command = new SqlCommand(sql, connection))
                     {
